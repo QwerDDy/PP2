@@ -1,1 +1,6 @@
-print("Hellop world!")
+print("Hello, World!")
+print("Salem. alem!")
+print("Astana")
+print("Semey")
+print("KBTU")
+print("Yerko")
